@@ -1,0 +1,10 @@
+{
+  "AWS_ACCESS_KEY": "AKIA[0-9A-Z]{16}",
+  "AWS_SECRET_KEY": "aws_secret_access_key.*[a-zA-Z0-9/+=]{40}",
+  "SLACK_TOKEN": "xox[baprs]-[0-9a-zA-Z]{10,48}",
+  "GITHUB_PAT": "ghp_[a-zA-Z0-9]{36}",
+  "STRIPE_KEY": "sk_live_[0-9a-zA-Z]{24}",
+  "GOOGLE_API_KEY": "AIza[0-9A-Za-z-_]{35}",
+  "HEROKU_API_KEY": "[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}",
+  "GENERIC_AUTH": "(?i)(password|pass|passwd|secret|auth_token|access_token).*[:=].{10,64}"
+}
