@@ -41,4 +41,4 @@ python3 asl.py --pid <PID> --verify
 
 This software is intended for educational purposes and authorized penetration testing only. The author is not responsible for any misuse or damage caused by this tool.
 
-Author: canmitm  Version: 1.0.0
+Author: root-flow  Version: 1.0.0
