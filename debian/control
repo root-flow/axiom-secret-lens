@@ -1,0 +1,14 @@
+Source: axiom-secret-lens
+Section: utils
+Priority: optional
+Maintainer: root-flow <senin-email@adresin.com>
+Build-Depends: debhelper-compat (= 12), python3-all
+Standards-Version: 4.5.0
+Homepage: https://github.com/root-flow/axiom-secret-lens
+
+Package: axiom-secret-lens
+Architecture: all
+Depends: ${python3:Depends}, ${misc:Depends}
+Description: Post-exploitation memory-resident secret scanner
+ ASL scans /proc/[pid]/environ to identify sensitive credentials 
+ like AWS keys, GitHub tokens, and more from running processes.

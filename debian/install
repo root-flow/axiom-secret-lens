@@ -1,0 +1,3 @@
+asl.py usr/bin/asl
+core/* usr/share/axiom-secret-lens/core/
+db/* usr/share/axiom-secret-lens/db/
