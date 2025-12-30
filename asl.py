@@ -5,7 +5,7 @@ import argparse
 from core.scanner import Scanner
 from core.validator import Validator
 
-# Professional Banner
+#  Banner
 BANNER = r"""
     ___   _____ __ 
    /   | / ___// / 
