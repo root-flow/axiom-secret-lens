@@ -14,7 +14,7 @@ Unlike static secret scanners, ASL targets the runtime state, allowing researche
 
 ### Clone and Initialize
 
-git clone [https://github.com/canmitm/axiom-secret-lens.git](https://github.com/canmitm/axiom-secret-lens.git)
+git clone [https://github.com/root-flow/axiom-secret-lens.git](https://github.com/root-flow/axiom-secret-lens.git)
 cd axiom-secret-lens
 
 Basic Scan	
